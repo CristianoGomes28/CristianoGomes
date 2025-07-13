@@ -1,12 +1,14 @@
 # Cristiano Gomes
 
-### Estudante de Engenharia Informática na Universidade da Madeira
-### Erasmus na University of Maribor (2025)
-### Interresso-me por Desenvolvimento Web, automação e visualização de dados
+Estudante de Engenharia Informática na Universidade da Madeira
 
-### Contacto: eduardo.cris13@hotmail.com
+Erasmus na University of Maribor (2025)
 
-# Projetos em Destaque: (Desenvolvidos em conjunto com colegas de Universidade)
+Interresso-me por Desenvolvimento Web, automação e visualização de dados
+
+Contacto: eduardo.cris13@hotmail.com
+
+## Projetos em Destaque: (Desenvolvidos em conjunto com colegas de Universidade)
 
 ### [Proj_UAT](https://github.com/CristianoGomes28/UATproj)
 Aplicação com os requisitos da cadeira *Ubiquitous Applications Technologies* (Erasmus).
