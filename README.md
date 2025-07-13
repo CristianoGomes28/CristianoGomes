@@ -8,7 +8,7 @@
 
 # Projetos em Destaque: (Desenvolvidos em conjunto com colegas de Universidade)
 
-####[Projeto_UAT](https://github.com/CristianoGomes28/UATproj)
+#### [Projeto_UAT](https://github.com/CristianoGomes28/UATproj)
 Aplicação com os requisitos da cadeira Ubiquitous Applications Technologies (Erasmus).
 
 [Projeto_IA](https://github.com/CristianoGomes28/proj-IA)
