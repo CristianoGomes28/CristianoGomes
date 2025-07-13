@@ -9,7 +9,7 @@
 # Projetos em Destaque: (Desenvolvidos em conjunto com colegas de Universidade)
 
 ### [Proj_UAT](https://github.com/CristianoGomes28/UATproj)
-Aplicação com os requisitos da cadeira *Ubiquitous Applications Technologies+ (Erasmus).
+Aplicação com os requisitos da cadeira *Ubiquitous Applications Technologies* (Erasmus).
 
 ### [Proj_ER](https://github.com/CristianoGomes28/proj-ER)
 Aplicação baseada nos requisitos propostos na cadeira *Engenharia de Requisitos*.
