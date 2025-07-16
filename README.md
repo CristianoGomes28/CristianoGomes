@@ -12,15 +12,15 @@ Contacto: eduardo.cris13@hotmail.com
 
 [Proj_UAT](https://github.com/CristianoGomes28/UATproj)
 
-Aplicação com os requisitos da cadeira *Ubiquitous Applications Technologies* (Erasmus).
+Aplicação de recomendações de barbeiros com os requisitos da cadeira *Ubiquitous Applications Technologies* (Erasmus).
 
 [Proj_ER](https://github.com/CristianoGomes28/proj-ER)
 
-Aplicação baseada nos requisitos propostos na cadeira *Engenharia de Requisitos*.
+Aplicação sobre marcações de consultas médicas baseada nos requisitos propostos na cadeira *Engenharia de Requisitos*.
 
 [Proj-DBW-Client](https://github.com/CristianoGomes28/proj-dbw-client)  
 
-Frontend da aplicação web da cadeira *Desenvolvimento Baseado em Web*.
+Frontend da aplicação web da cadeira *Desenvolvimento Baseado em Web* juntamente com um chat IA.
 
 [Proj_DBW_Server](https://github.com/CristianoGomes28/proj-dbw-server)  
 
@@ -28,7 +28,7 @@ Servidor backend da mesma aplicação.
 
 [Proj_IA](https://github.com/CristianoGomes28/proj-IA)
 
-Projeto de *inteligência artificial* com análise de padrões em dados.  
+Projeto de *inteligência artificial* com análise de padrões em dados para um robô.  
 
 [Proj_POO_BarbieGame](https://github.com/CristianoGomes28/barbie-project)  
 
